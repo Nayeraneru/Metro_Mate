@@ -1,0 +1,321 @@
+abbasya,false,false,true
+-
+abdou basha,false,false,true
+-
+adly mansour,false,false,true
+-
+ain helwan,true,false,false
+-
+ain shams,true,false,false
+-
+al ahram,false,false,true
+-
+al shohadaa,true,true,false
+-
+alf maskan,false,false,true
+2024-05-15,1,0.000000
+-
+attaba,false,true,true
+2024-05-15 ,1,0.000000
+-
+bab el shaareya,false,false,true
+-
+boulak el dakrour,false,false,true
+-
+cairo university,false,true,true
+-
+dar el salam,true,false,false
+-
+dokki,false,true,false
+-
+el bohoos,false,true,false
+-
+el demerdash,true,false,false
+-
+el geish,false,false,true
+-
+el khalafawy,false,true,false
+-
+el maadi,true,false,false
+-
+el maasara,true,false,false
+-
+el malek el saleh,true,false,false
+-
+el marg,true,false,false
+-
+el mezalat,false,true,false
+-
+el moneeb,false,true,false
+-
+el sadat,true,true,false
+-
+el shams club,false,false,true
+-
+el sudan,false,false,true
+-
+ezbet el nakhl,true,false,false
+-
+fair zone,false,false,true
+-
+faysal,false,true,false
+-
+gamaet el dowel,false,false,true
+-
+ghamra,true,false,false
+-
+giza,false,true,false
+-
+hadayek el maadi,true,false,false
+-
+hadayek el zaytoun,true,false,false
+-
+hadayek helwan,true,false,false
+-
+haikstep,false,false,true
+-
+hammamat el qubba,true,false,false
+-
+haroun,false,false,true
+-
+helioplois,false,false,true
+-
+helmeyet el zaytoun,true,false,false
+-
+helwan,true,false,false
+-
+helwan university,true,false,false
+-
+hesham barakat,false,false,true
+-
+imbaba,false,false,true
+-
+kit kat,false,false,true
+-
+kobry el qubaa,true,false,false
+-
+koleyet el zeraa,false,true,false
+-
+kolleyet el banat,false,false,true
+-
+kozzika,true,false,false
+-
+manshyet el sadr,true,false,false
+-
+mar girgis,true,false,false
+-
+maspero,false,false,true
+-
+massara,false,true,false
+-
+mattareya,true,false,false
+-
+nageeb,false,true,false
+-
+nasser,true,false,true
+-
+new el marg,true,false,false
+-
+nozha,false,false,true
+-
+om el masryeen,false,true,false
+-
+omar bn el khatab,false,false,true
+-
+opera,false,true,false
+-
+orabi,true,false,false
+-
+qebaa,false,false,true
+-
+rod el farag,false,true,false
+-
+saad zaghloul,true,false,false
+-
+safaa hegazy,false,false,true
+-
+saint theresa,false,true,false
+-
+sakanat el maadi,true,false,false
+-
+sakeyt mekky,false,true,false
+-
+saray el qubba,true,false,false
+-
+sayeda zainab,true,false,false
+-
+shubra el kheima,false,true,false
+-
+stadium,false,false,true
+-
+tawfikia,false,false,true
+-
+tura el asmant,true,false,false
+-
+tura el balad,true,false,false
+-
+wadi el nile,false,false,true
+-
+wadi hof,true,false,false
+-
+;
+abbasya,abdou basha
+abbasya,fair zone
+abdou basha,abbasya
+abdou basha,el geish
+adly mansour,haikstep
+ain helwan,helwan
+ain helwan,helwan university
+ain shams,ezbet el nakhl
+ain shams,mattareya
+al ahram,haroun
+al ahram,kolleyet el banat
+al shohadaa,attaba
+al shohadaa,ghamra
+al shohadaa,massara
+al shohadaa,orabi
+alf maskan,el shams club
+alf maskan,helioplois
+attaba,al shohadaa
+attaba,bab el shaareya
+attaba,nageeb
+attaba,nasser
+bab el shaareya,attaba
+bab el shaareya,el geish
+boulak el dakrour,cairo university
+boulak el dakrour,gamaet el dowel
+cairo university,boulak el dakrour
+cairo university,el bohoos
+cairo university,faysal
+dar el salam,hadayek el maadi
+dar el salam,mar girgis
+dokki,el bohoos
+dokki,opera
+el bohoos,cairo university
+el bohoos,dokki
+el demerdash,ghamra
+el demerdash,manshyet el sadr
+el geish,abdou basha
+el geish,bab el shaareya
+el khalafawy,el mezalat
+el khalafawy,saint theresa
+el maadi,hadayek el maadi
+el maadi,sakanat el maadi
+el maasara,hadayek helwan
+el maasara,tura el asmant
+el malek el saleh,mar girgis
+el malek el saleh,sayeda zainab
+el marg,ezbet el nakhl
+el marg,new el marg
+el mezalat,el khalafawy
+el mezalat,koleyet el zeraa
+el moneeb,om el masryeen
+el sadat,nageeb
+el sadat,nasser
+el sadat,opera
+el sadat,saad zaghloul
+el shams club,alf maskan
+el shams club,nozha
+el sudan,imbaba
+el sudan,kit kat
+ezbet el nakhl,ain shams
+ezbet el nakhl,el marg
+fair zone,abbasya
+fair zone,stadium
+faysal,cairo university
+faysal,giza
+gamaet el dowel,boulak el dakrour
+gamaet el dowel,wadi el nile
+ghamra,al shohadaa
+ghamra,el demerdash
+giza,faysal
+giza,om el masryeen
+hadayek el maadi,dar el salam
+hadayek el maadi,el maadi
+hadayek el zaytoun,helmeyet el zaytoun
+hadayek el zaytoun,saray el qubba
+hadayek helwan,el maasara
+hadayek helwan,wadi hof
+haikstep,adly mansour
+haikstep,omar bn el khatab
+hammamat el qubba,kobry el qubaa
+hammamat el qubba,saray el qubba
+haroun,al ahram
+haroun,helioplois
+helioplois,alf maskan
+helioplois,haroun
+helmeyet el zaytoun,hadayek el zaytoun
+helmeyet el zaytoun,mattareya
+helwan,ain helwan
+helwan university,ain helwan
+helwan university,wadi hof
+hesham barakat,nozha
+hesham barakat,qebaa
+imbaba,el sudan
+kit kat,el sudan
+kit kat,safaa hegazy
+kit kat,tawfikia
+kobry el qubaa,hammamat el qubba
+kobry el qubaa,manshyet el sadr
+koleyet el zeraa,el mezalat
+koleyet el zeraa,shubra el kheima
+kolleyet el banat,al ahram
+kolleyet el banat,stadium
+kozzika,tura el asmant
+kozzika,tura el balad
+manshyet el sadr,el demerdash
+manshyet el sadr,kobry el qubaa
+mar girgis,dar el salam
+mar girgis,el malek el saleh
+maspero,nasser
+maspero,safaa hegazy
+massara,al shohadaa
+massara,rod el farag
+mattareya,ain shams
+mattareya,helmeyet el zaytoun
+nageeb,attaba
+nageeb,el sadat
+nasser,attaba
+nasser,el sadat
+nasser,maspero
+nasser,orabi
+new el marg,el marg
+nozha,el shams club
+nozha,hesham barakat
+om el masryeen,el moneeb
+om el masryeen,giza
+omar bn el khatab,haikstep
+omar bn el khatab,qebaa
+opera,dokki
+opera,el sadat
+orabi,al shohadaa
+orabi,nasser
+qebaa,hesham barakat
+qebaa,omar bn el khatab
+rod el farag,massara
+rod el farag,saint theresa
+saad zaghloul,el sadat
+saad zaghloul,sayeda zainab
+safaa hegazy,kit kat
+safaa hegazy,maspero
+saint theresa,el khalafawy
+saint theresa,rod el farag
+sakanat el maadi,el maadi
+sakanat el maadi,tura el balad
+saray el qubba,hadayek el zaytoun
+saray el qubba,hammamat el qubba
+sayeda zainab,el malek el saleh
+sayeda zainab,saad zaghloul
+shubra el kheima,koleyet el zeraa
+stadium,fair zone
+stadium,kolleyet el banat
+tawfikia,kit kat
+tawfikia,wadi el nile
+tura el asmant,el maasara
+tura el asmant,kozzika
+tura el balad,kozzika
+tura el balad,sakanat el maadi
+wadi el nile,gamaet el dowel
+wadi el nile,tawfikia
+wadi hof,hadayek helwan
+wadi hof,helwan university

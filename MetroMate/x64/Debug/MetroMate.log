@@ -1,0 +1,24 @@
+﻿  Admin.cpp
+C:\Users\DELL\source\repos\MetroMate1\Admin.cpp(336,9): warning C4101: 'line': unreferenced local variable
+C:\Users\DELL\source\repos\MetroMate1\Admin.cpp(333,9): warning C4101: 'trainID': unreferenced local variable
+C:\Users\DELL\source\repos\MetroMate1\Admin.cpp(334,9): warning C4101: 'capacity': unreferenced local variable
+C:\Users\DELL\source\repos\MetroMate1\Admin.cpp(391,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Metro.cpp
+C:\Users\DELL\source\repos\MetroMate1\Metro.cpp(87,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\MetroMate1\Metro.cpp(96,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\MetroMate1\Metro.cpp(100,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\MetroMate1\Metro.cpp(150,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\MetroMate1\Metro.cpp(153,39): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MetroMate.cpp
+  RewardProgram.cpp
+  Ride.cpp
+  Station.cpp
+  Subscription.cpp
+C:\Users\DELL\source\repos\MetroMate1\Subscription.cpp(561,11): warning C4129: 'N': unrecognized character escape sequence
+  Train.cpp
+  user.cpp
+C:\Users\DELL\source\repos\MetroMate1\user.cpp(111,10): warning C4101: 'is_exist': unreferenced local variable
+C:\Users\DELL\source\repos\MetroMate1\user.cpp(153,10): warning C4101: 'is_exist': unreferenced local variable
+  Generating Code...
+C:\Users\DELL\source\repos\MetroMate1\Subscription.cpp(1058): warning C4715: 'Subscription::getType': not all control paths return a value
+  MetroMate.vcxproj -> C:\Users\DELL\Source\Repos\MetroMate1\x64\Debug\MetroMate.exe
